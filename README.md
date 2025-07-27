@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leksia</h1>
 <h3 align="center">🚀 Passionate about solving real-world problems through AI,DL,ML and full-stack development.</h3>
-
+<h3></h3>Explore my repo here👉👉https://github.com/leksialevin7700?tab=repositories
 
 
 <h3 align="left">Connect with me:</h3>
