@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leksia</h1>
-<h3 align="center">🚀 Pssionate about solving real-world problems through AI, Deep Learning, Machine Learning, and full-stack development.</h3>
+<h3 align="center">🚀 Passionate about solving real-world problems through AI, Deep Learning, Machine Learning, and Full-Stack Development.</h3>
 
 <p align="center">
   <a href="https://github.com/leksialevin7700?tab=repositories"><strong>🚀 Explore my repositories</strong></a>
 </p>
+
+
 
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
@@ -19,6 +21,8 @@
   <a href="https://www.geeksforgeeks.org/user/leksianmaf657/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
   <a href="https://discord.gg/leksianm_42053" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
@@ -48,6 +52,8 @@
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
 
+
+
 <h3 align="left">📈 GitHub Stats</h3>
 
 <p align="center">
@@ -56,11 +62,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leksialevin7700&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leksialevin7700&layout=compact&langs_count=10&theme=radical" alt="Top Languages"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=leksialevin7700&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leksialevin7700&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leksialevin7700&theme=radical" alt="GitHub Streak"/>
 </p>
-
-<!--
-**leksialevin7700/leksialevin7700** is a ✨ special repository ✨ because its `README.md` (this file) appears on your GitHub profile.
--->
