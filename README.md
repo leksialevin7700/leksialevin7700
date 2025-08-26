@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leksia</h1>
 <h3 align="center">🚀 Passionate about solving real-world problems through AI, Deep Learning, Machine Learning, and Full-Stack Development.</h3>
 
-<p align="center">
-  <a href="https://github.com/leksialevin7700?tab=repositories"><strong>🚀 Explore my repositories</strong></a>
+<h3><p align="center">
+ <a href="https://github.com/leksialevin7700?tab=repositories"><strong> Explore my repositories</strong></a></h3>
 </p>
 
 
