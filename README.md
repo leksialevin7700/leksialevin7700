@@ -55,6 +55,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leksialevin7700&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leksialevin7700&show_icons=true&theme=radical&include_all_commits=true" alt="Total Contributions"/>
-</p>
+
