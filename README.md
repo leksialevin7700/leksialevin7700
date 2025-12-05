@@ -51,8 +51,5 @@
   <img src="https://img.shields.io/github/stars/leksialevin7700?style=social" alt="GitHub Stars"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leksialevin7700&theme=radical" alt="GitHub Streak"/>
-</p>
 
 
