@@ -5,9 +5,7 @@
   <a href="https://github.com/leksialevin7700?tab=repositories"><strong> Explore my repositories</strong></a>
 </p></h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leksialevin7700&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 
 <h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
