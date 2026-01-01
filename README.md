@@ -10,8 +10,9 @@
 
 <p align="center">
   <!-- Followers & Stars -->
-  <img src="https://img.shields.io/github/followers/leksialevin7700?label=Followers"/>
-  <img src="https://img.shields.io/github/stars/leksialevin7700?style=social"/>
+ 
+  <img src="https://img.shields.io/github/followers/leksialevin7700?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/leksialevin7700?label=Stars&style=for-the-badge"/>
 </p>
 
 ---
@@ -29,3 +30,16 @@
 </p>
 
 ---
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/leksia-nagarajan-a79695290/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+  </a>
+  <a href="nmleksia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+⭐ **If you like my work, consider starring the repositories!**
