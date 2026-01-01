@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/leksia-nagarajan-a79695290/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
   </a>
-  <a href="nmleksia@gmail.com">
+  <a href="mailto:nmleksia@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
   </a>
 </p>
