@@ -23,9 +23,7 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Consistent-Contributor-2EA043?style=flat-square&logo=github" />
-</p>
+
 
 ---
 
