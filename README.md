@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  ⭐ <strong>If you like my work, consider starring the repositories!</strong>
+  ⭐ <strong>If you like my work, consider starring the repositories!!</strong>
 </p>
