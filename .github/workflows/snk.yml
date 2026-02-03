@@ -1,0 +1,22 @@
+name: Generate contribution graph
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: leksialevin7700
+          outputs: |
+            output/pacman-contribution-graph.svg
+            output/pacman-contribution-graph-dark.svg
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "output/*.svg"
+          message: "Generate Pac-Man contribution graph"
