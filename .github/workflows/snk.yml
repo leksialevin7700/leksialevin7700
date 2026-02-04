@@ -20,3 +20,6 @@ jobs:
         with:
           add: "output/*.svg"
           message: "Generate Pac-Man contribution graph"
+          author_name: "Automated Workflow"
+          author_email: "actions@github.com"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
