@@ -4,17 +4,24 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      
       - uses: Platane/snk@v3
         with:
           github_user_name: leksialevin7700
           outputs: |
             output/pacman-contribution-graph.svg
             output/pacman-contribution-graph-dark.svg
+      
       - name: Push generated files
         uses: EndBug/add-and-commit@v9
         with:
@@ -22,5 +29,4 @@ jobs:
           message: "Generate Pac-Man contribution graph"
           author_name: "Automated Workflow"
           author_email: "actions@github.com"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           pull: '--rebase --autostash'
