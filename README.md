@@ -44,6 +44,8 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/leksialevin7700/leksialevin7700/main/output/pacman-contribution-graph.svg">
 </picture>
 
+> **Note:** The contribution graph is automatically updated daily. To manually regenerate it, visit the [Actions page](https://github.com/leksialevin7700/leksialevin7700/actions/workflows/snk.yml) and click "Run workflow".
+
 
 <h2 align="center">Connect With Me</h2>
 
