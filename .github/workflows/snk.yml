@@ -1,29 +1,26 @@
-name: Generate Contribution Graph
-
+name: Generate contribution graph
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Generate Contribution Snake
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v3
         with:
           github_user_name: leksialevin7700
           outputs: |
-            output/pacman-contribution-graph.svg
-            output/pacman-contribution-graph-dark.svg?palette=github-dark
-      
-      - name: Push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+            output/pacman-contribution-graph.svg?palette=github&color_snake=#2ea043&color_dots=#bfd4f2,#9ecbff,#58a6ff,#1f6feb,#0d419d
+            output/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#2ea043&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
         with:
-          commit_message: Update contribution graph
-          file_pattern: 'output/*'
+          add: "output/*.svg"
+          message: "Generate Pac-Man contribution graph"
+          author_name: "Automated Workflow"
+          author_email: "actions@github.com"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          pull: '--rebase --autostash'
