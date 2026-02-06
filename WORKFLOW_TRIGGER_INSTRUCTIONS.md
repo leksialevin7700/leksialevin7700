@@ -42,7 +42,7 @@ The workflow also runs automatically:
 
 ## Workflow Details
 
-- **Workflow ID**: 229947145
 - **File**: `.github/workflows/snk.yml`
 - **Action**: Uses Platane/snk@v3
 - **Configuration**: Custom color palettes for both light and dark themes
+- **Workflow ID**: 229947145 *(note: this ID is specific to this repository instance and may vary if the workflow is recreated)*
