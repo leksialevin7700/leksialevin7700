@@ -27,14 +27,6 @@
 
 ---
 
-<h2 align="center">Repo & Commit Stats</h2>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leksialevin7700&theme=github_dark"
-    alt="Stats Card"
-  />
-</p>
 
 
 
