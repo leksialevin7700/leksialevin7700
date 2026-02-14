@@ -6,6 +6,7 @@
   </a>
 </h3>
 
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/leksialevin7700?label=Followers&style=for-the-badge&color=2EA043"/>
   <img src="https://img.shields.io/github/stars/leksialevin7700?label=Stars&style=for-the-badge&color=2EA043"/>
@@ -27,7 +28,12 @@
 
 ---
 
-
+<p align="center">
+  <img 
+    src="https://ghchart.rshah.org/2EA043/leksialevin7700"
+    alt="Leksia's Github Chart"
+  />
+</p>
 
 
 <h2 align="center">Connect With Me</h2>
