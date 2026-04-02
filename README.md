@@ -5,7 +5,11 @@
     <strong>🔍 Explore my repositories</strong>
   </a>
 </h3>
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=leksialevin7700&style=for-the-badge&color=0e75b6)
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/leksialevin7700?label=Followers&style=for-the-badge&color=2EA043"/>
@@ -46,3 +50,4 @@
 <p align="center">
   ⭐ <strong>If you like my work, consider starring the repositories!!</strong>
 </p>
+
